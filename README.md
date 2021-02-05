@@ -1,5 +1,6 @@
 
 #Introduction
+
 Dating can be very difficult and there are a lot of different variables and attributes that people look for. What is it that most people are looking for in the opposite sex? If we can narrow down to a specific trait or characteristic that most people are looking for, perhaps there can be better matching rates in dating. There is a set of data from experimental speed dating in 2002 through 2004. Information contains many different information and attributes, ranging from gender, age, income to attributes of what they look in a partner. There are 195 total columns/categories of information of the person’s background, preferences of what they look for in a date, and also opinions of how others perceive them. Focusing on the attributes section of the data - attributes are broken down to 6 different types as follows:
 Attractive, sincere, intelligent, fun, ambitious, and shared interests/hobbies 
 the person has a 100 points and they can distribute the points to the different categories of what is most important to them (the more points, the more important, the fewer the points, the less importance).
