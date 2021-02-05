@@ -1,12 +1,12 @@
 
-#Introduction
+# Introduction
 
 Dating can be very difficult and there are a lot of different variables and attributes that people look for. What is it that most people are looking for in the opposite sex? If we can narrow down to a specific trait or characteristic that most people are looking for, perhaps there can be better matching rates in dating. There is a set of data from experimental speed dating in 2002 through 2004. Information contains many different information and attributes, ranging from gender, age, income to attributes of what they look in a partner. There are 195 total columns/categories of information of the person’s background, preferences of what they look for in a date, and also opinions of how others perceive them. Focusing on the attributes section of the data - attributes are broken down to 6 different types as follows:
 Attractive, sincere, intelligent, fun, ambitious, and shared interests/hobbies 
 the person has a 100 points and they can distribute the points to the different categories of what is most important to them (the more points, the more important, the fewer the points, the less importance).
 Information was compiled by a professor at Columbia Business School. 
 
-#Research design
+## Research design
 
 Males are more likely to look at attractiveness in their potential dating partners than females.
 In order to test this hypothesis we will compare males to females, by first splitting the data between males and females. Then, we will only examine attributes that males and females look for in their dating partner.
@@ -14,7 +14,7 @@ Now, we will examine how males and females allocate their 100 points in what the
 The information will be graphed to compare the different characteristics for each gender. From here, I will examine any outliers in the data and also examining any missing data collected. 
 Data on the categories are dependent on each other (a person is limited to 100 points allocation for varying categories). I will be using one of the non-parametric tests - specifically the Kruskal-Wallis test to compare males vs females on attractiveness.
 
-#Audience
+## Audience
 
 Data set is research with mostly college students as participants - which also implies age groups of 20 to 30 year olds. Targeted audience will be among college students and/or age groups between 20s to 30s. Groups outside the data set will not be applicable to whatever resolution is drawn upon. For those within the criterias corresponding closely to the data sets will learn more about what the opposite gender is looking for in a partner and perhaps the person can potentially somewhat improve their chances by knowing what characteristic(s) is most desirable when looking for a partner.
 
